@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/school-score-hackathon/static/js/main.c42d064b.chunk.js",
+    "main.js.map": "/school-score-hackathon/static/js/main.c42d064b.chunk.js.map",
+    "runtime-main.js": "/school-score-hackathon/static/js/runtime-main.a968a958.js",
+    "runtime-main.js.map": "/school-score-hackathon/static/js/runtime-main.a968a958.js.map",
+    "static/css/2.7214840c.chunk.css": "/school-score-hackathon/static/css/2.7214840c.chunk.css",
+    "static/js/2.34d1fcb0.chunk.js": "/school-score-hackathon/static/js/2.34d1fcb0.chunk.js",
+    "static/js/2.34d1fcb0.chunk.js.map": "/school-score-hackathon/static/js/2.34d1fcb0.chunk.js.map",
+    "index.html": "/school-score-hackathon/index.html",
+    "precache-manifest.9bb3be6878f88afcec3b9b4557578b46.js": "/school-score-hackathon/precache-manifest.9bb3be6878f88afcec3b9b4557578b46.js",
+    "service-worker.js": "/school-score-hackathon/service-worker.js",
+    "static/css/2.7214840c.chunk.css.map": "/school-score-hackathon/static/css/2.7214840c.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a968a958.js",
+    "static/css/2.7214840c.chunk.css",
+    "static/js/2.34d1fcb0.chunk.js",
+    "static/js/main.c42d064b.chunk.js"
+  ]
+}
